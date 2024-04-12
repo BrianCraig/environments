@@ -1,0 +1,12 @@
+{
+  "name": "default-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "find ./src -name '*.ts' -exec npx ts-node {} \\;",
+    "exec": "ts-node ./src/${npm_config_file}.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}

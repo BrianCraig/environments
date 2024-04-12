@@ -15,3 +15,4 @@
 | --------------- | ------------ | ---------- | ---- | 
 | Net 7.0 + NUnit | [Net7.0](Net7.0/) | [Net7Nunit5TurnsBase.zip](Net7Nunit5TurnsBase.zip) | [Fork REPL](https://replit.com/@briancraigok/Net7Nunit5TurnsBase) | 
 | Java21 | [Java21](Java21/) | [Java21.zip](Java21.zip) | [Fork REPL](https://replit.com/@briancraigok/Java21Junit5TurnsBase) | 
+| Typescript | [TSNode](TSNode/) | [TSNode.zip](TSNode.zip) | [Fork REPL](https://replit.com/@briancraigok/TypeScript5TurnsBase#README.md) | 
